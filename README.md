@@ -22,10 +22,10 @@ First step is to install Homebrew. To install homebrew copy and paste the comman
 
 You will then need to input your computer password. Than wait until homebrew is installed. 
 
-When homebrew is installed you can enter `brew -v` to see its latest version, by doing this also shows you that homebrew has successfully installed on your computer.
+When homebrew is installed you can enter `brew -v` to see its version, by doing this also shows you that homebrew has successfully installed on your computer.
 
 ### Step 2: Installing VSCode
-To install 
+Once Homebrew is installed copy and paste this command `brew cask install visual-studio-code` into the terminal and press enter. VSCode should start installing.
 
 
  
