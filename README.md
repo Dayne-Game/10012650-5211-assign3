@@ -16,7 +16,9 @@ Homebrew is a free and open-source software package management system that simpl
 ### Step 1: Installing Homebrew
 First step is to install Homebrew. To install homebrew copy and paste the command below into your terminal prompt and press enter
 
-`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" `
+`
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" 
+`
 
 You will then need to input your computer password. Than wait until homebrew is installed. 
 
