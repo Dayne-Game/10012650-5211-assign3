@@ -14,9 +14,11 @@ The easiest way to install VSCode is through homebrew.
 Homebrew is a free and open-source software package management system that simplifies the installation of software on Apple's macOS operating system. 
 
 ### Step 1: Installing Homebrew
-<video width="420" height="340" autoplay loop>
-  <source src="Homebrew2.mp4" type="video/mp4">
-</video>
+<figure class="video_container">
+  <video width="420" height="340" border="5" autoplay loop>
+    <source src="Homebrew2.mp4" type="video/mp4">
+  </video>
+</figure>
 First step is to install Homebrew. To install homebrew copy and paste the command below into your terminal prompt and press enter
 
 `
