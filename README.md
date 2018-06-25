@@ -24,7 +24,7 @@ You will then need to input your computer password. Than wait until homebrew is 
 
 When homebrew is installed you can enter `brew -v` to see its version, by doing this also shows you that homebrew has successfully installed on your computer.
 
-<video width="320" height="240" controls autoplay>
+<video width="620" height="540" controls autoplay>
   <source src="Homebrew2.mp4" type="video/mp4">
 </video>
 
