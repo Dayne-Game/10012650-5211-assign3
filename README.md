@@ -43,7 +43,9 @@ When homebrew is installed you can enter `brew -v` to see its version, by doing 
     <source src="VSCODE.mp4" type="video/mp4">
   </video>
 </figure>
-Once Homebrew is installed copy and paste this command `brew cask install visual-studio-code` inside the terminal and press enter. 
+Once Homebrew is installed copy and paste this command `brew cask install visual-studio-code` inside the terminal and press enter.
+
+*If you have closed/exited Terminal press command-spacebar and search terminal and press enter to open up terminal again*
 
 VSCode should start installing. You will than be asked for your Password (Computer Password not Apple ID Password) prompt at `Password: 🔑` towards the end of the installation.
 
