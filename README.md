@@ -38,7 +38,7 @@ When homebrew is installed you can enter `brew -v` to see its version, by doing 
 ### Step 2: Installing VSCode
 <figure class="video_container">
   <video width="420" height="340" border="5" autoplay="true" loop="true">
-    <source src="VSCODE.mov" type="video/mov">
+    <source src="VSCODE.mp4" type="video/mp4">
   </video>
 </figure>
 Once Homebrew is installed copy and paste this command `brew cask install visual-studio-code` into the terminal and press enter. 
