@@ -45,7 +45,7 @@ When homebrew is installed you can enter `brew -v` to see its version, by doing 
 </figure>
 Once Homebrew is installed copy and paste this command `brew cask install visual-studio-code` inside the terminal and press enter.
 
-*If you have closed/exited Terminal press command-spacebar and search terminal and press enter to open up terminal again*
+***If you have closed/exited Terminal press command-spacebar and search terminal and press enter to open up terminal again***
 
 VSCode should start installing. You will than be asked for your Password (Computer Password not Apple ID Password) prompt at `Password: 🔑` towards the end of the installation.
 
@@ -58,7 +58,7 @@ VSCode should start installing. You will than be asked for your Password (Comput
  - .Net Core 2.X is only supported on macOS 10.12 (Sierra) or Later
  - .Net Core 1.X is supported on macOS 10.12 (Sierra) and 10.11 (El Capitan)
 
-You can use any editor to develop .Net Core applications, but if you want an intergrated development enviroment download <a href="https://visualstudio.microsoft.com/vs/mac/">Visual Studio for Mac</a>
+You can use any editor to develop .Net Core applications, but if you want an intergrated development enviroment download <a href="https://visualstudio.microsoft.com/vs/mac/" target="_blank">Visual Studio for Mac</a>
 
 
 <link href="styles.css" rel="stylesheet">
