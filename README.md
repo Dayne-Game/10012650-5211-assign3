@@ -32,7 +32,6 @@ When homebrew is installed you can enter `brew -v` to see its version, by doing 
 ### Step 2: Installing VSCode
 Once Homebrew is installed copy and paste this command `brew cask install visual-studio-code` into the terminal and press enter. VSCode should start installing.
 
-Now you just go and kill yourself!
 
-
+<link href="style.css" rel="stylesheet"></link>
  
