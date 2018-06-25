@@ -15,7 +15,7 @@ Homebrew is a free and open-source software package management system that simpl
 
 ### Step 1: Installing Homebrew
 <figure class="video_container">
-  <video width="420" height="340" border="5" autoplay loop>
+  <video width="420" height="340" border="5" autoplay="true" loop="true">
     <source src="Homebrew2.mp4" type="video/mp4">
   </video>
 </figure>
