@@ -25,9 +25,11 @@ First step is to install Homebrew. To install homebrew copy and paste the comman
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" 
 `
 
-You will then need to input your computer password prompt at `Password: 🔑. Than wait until homebrew is installed. 
+You will then need to input your computer password prompt at `Password: 🔑`. Than wait until homebrew is installed. 
 
 When homebrew is installed you can enter `brew -v` to see its version, by doing this also shows you that homebrew has successfully installed on your computer.
+
+***When you install Homebrew. Homebrew installs Xcode Command Line tools. Which installs Git, so you don't need to install git.***
 
 ### Step 2: Installing VSCode
 Once Homebrew is installed copy and paste this command `brew cask install visual-studio-code` into the terminal and press enter. VSCode should start installing.
