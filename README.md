@@ -31,9 +31,9 @@ Step 2: In your terminal to install homebrew copy and paste the command below in
 
 You will then need to input your computer password (not Apple ID Password) prompt at `Password: 🔑` (in the terminal). Than wait until homebrew is installed. 
 
-When homebrew is installed you can enter `brew -v` to see its version, by doing this also shows you that homebrew has successfully installed on your computer. Than go onto Step 2: Installing VSCode.
+When homebrew is installed you can enter `brew -v` to see its version, by doing this also shows you that homebrew has successfully installed on your computer. Since we now have homebrew installed we can download a whole lot of applications through the terminal. This makes installation quick and easy. You can now go onto Step 2: Installing VSCode.
 
-***When you install Homebrew. Homebrew installs Xcode Command Line tools. Which installs Git, so you don't need to install git.(Git is a requirement for Visual Studio Code)***
+***When you install Homebrew. Homebrew installs Xcode Command Line tools. Which installs Git, so you don't need to install git.(Git is a requirement for Visual Studio Code) this will be explained in the Git Section***
 
 ---
 
@@ -52,13 +52,16 @@ VSCode should start installing. You will than be asked for your Password (Comput
 ---
 
 # .Net Core
-.Net Core is an open source, cross platform (meaning it works on Windows, Mac and Linux) .Net Platform. .Net Core is used to create we apps, microservices, libraries and console applications. .Net core 1.0 was annouched an released on June 27th 2016, with the latest version now being 2.1 whihc was shipped/released May 30th, 2018. The primary languages used in .Net core are C# and Visual Basic.
+.Net Core is an open source, cross platform (meaning it works on Windows, Mac and Linux) .Net Platform. .Net Core is used to create we apps, microservices, libraries and console applications. .Net core 1.0 was annouched an released on June 27th 2016, with the latest version now being 2.1 which was shipped/released May 30th, 2018. The primary languages used in .Net core are C# and Visual Basic.
 
 ## Requirements:
  - .Net Core 2.X is only supported on macOS 10.12 (Sierra) or Later
  - .Net Core 1.X is supported on macOS 10.12 (Sierra) and 10.11 (El Capitan)
 
 You can use any editor to develop .Net Core applications, but if you want an intergrated development enviroment download <a href="https://visualstudio.microsoft.com/vs/mac/" target="_blank">Visual Studio for Mac</a>
+
+## Installing .Net Core
+
 
 
 <link href="styles.css" rel="stylesheet">
