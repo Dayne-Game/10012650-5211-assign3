@@ -8,3 +8,14 @@
 video {
     margin-top: -30px !important;
 }
+.taskb_container {
+    background-color: rgb(71, 150, 93);
+    width: 660px;
+    margin-left: 0;
+    padding-left: 20px;
+    height: 450px;
+    margin-top: 0;
+}
+.taskb-vid {
+    margin-top: -60px !important;
+}

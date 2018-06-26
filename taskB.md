@@ -11,7 +11,7 @@ The debugger in VSCode only shows output not input. To debug a console applicati
 
 **Example of changing the console**
 <figure class="taskb_container">
-  <video width="620" height="540" border="5" autoplay="true" loop="true">
+  <video class="taskb-vid" width="620" height="540" border="5" autoplay="true" loop="true">
     <source src="videos/terminal.mp4" type="video/mp4">
   </video>
 </figure>
@@ -20,7 +20,7 @@ To add break points to your program hover your mouse cursor over the line you wo
 
 **Example of adding a Break Point**
 <figure class="taskb_container">
-  <video width="620" height="540" border="5" autoplay="true" loop="true">
+  <video class="taskb-vid" width="620" height="540" border="5" autoplay="true" loop="true">
     <source src="videos/Break-Point.mp4" type="video/mp4">
   </video>
 </figure>
