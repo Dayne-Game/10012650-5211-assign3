@@ -78,8 +78,11 @@ Step 4: In your terminal type `cd Desktop` and press enter. You are now on your 
 Your terminal should look like this (without the restore):
 <br>
 `users-Mac:~ username$ cd Desktop` 
+<br>
 `users-Mac:desktop username$ git init myApp`
+<br>
 `users-Mac:desktop username$ cd myApp`
+<br>
 `users-Mac:myApp username$ dotnet new console`
 
 
