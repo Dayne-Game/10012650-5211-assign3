@@ -18,7 +18,7 @@ To test a web page go into your HTML file and press command-o then command-l to 
 **Example of using Live Server and Inspect Element**
 <figure class="taskb_container">
   <video class="taskb-vid" width="620" height="540" border="5" autoplay="true" loop="true">
-    <source src="inspect-live.mp4" type="video/mp4">
+    <source src="videos/inspect-live.mp4" type="video/mp4">
   </video>
 </figure>
 
