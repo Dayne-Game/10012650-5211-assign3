@@ -50,6 +50,8 @@ Once Homebrew is installed copy and paste this command `brew cask install visual
 VSCode should start installing. You will than be asked for your Password (Computer Password not Apple ID Password) prompt at `Password: 🔑` towards the end of the installation.
 
 ---
+## Task B
+Visual Studio Code is used for creating websites, native and language-specific programs. VSCode has support for multiple different languages, that you can use to write programs. Such as HTML, JavaScript, CSS, C#, Python, C, C++, PHP, Java and Ruby and many many more. 
 
 # .Net Core
 .Net Core is an open source, cross platform (meaning it works on Windows, Mac and Linux) .Net Platform. .Net Core is used to create we apps, microservices, libraries and console applications. .Net core 1.0 was annouched an released on June 27th 2016, with the latest version now being 2.1 which was shipped/released May 30th, 2018. The primary languages used in .Net core are C# and Visual Basic.
@@ -67,6 +69,7 @@ You can use any editor to develop .Net Core applications, but if you want an int
   </video>
 </figure>
 To install .Net Core you can simply use homebrew like the other applications.
+<br>
 Step 1: Copy and paste this command `brew cask install dotnet-sdk` in your terminal and press enter. (Open terminal by pressing command-spacebar and type terminal than press enter). .Net Core should start installing.
 
 Step 2: Towards the end of the installation your are prompt for your computer password (not Apple ID Password) at `Password: 🔑` and press enter. Installation should continue and finish shortly.
@@ -87,7 +90,8 @@ Your terminal should look like this (without the restore):
 
 
 **Optional**
-Step 5: This step is optional, but when you typed `dotnet new console` after it has finished you can type `code .` Which opens the folder in Visual Studio Code. Whne you do this is installs some debugging tools for .Net Core.
+<br>
+Step 5: This step is optional, but when you typed `dotnet new console` after it has finished you can type `code .` Which opens the folder in Visual Studio Code. When you do this is installs some debugging tools for .Net Core.
 
 
 <link href="styles.css" rel="stylesheet">
