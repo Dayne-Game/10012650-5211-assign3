@@ -7,11 +7,20 @@ Visual Studio Code is used for creating websites, native and language-specific p
 ## Task B2
 
 ## Task B3
-The debugger in VSCode only shows output not input. To debug a console application that takes user input you need to change "console": "internal terminal" to "console": "external terminal". This will output the program through the macOS terminal when debugging.
+The debugger in VSCode only shows output not input. To debug a console application that takes user input you need to change "console": "internalConsole"; to "console": "externalTerminal";. This will output the program through the macOS terminal when debugging.
+
+**Example of changing the console**
+<figure class="taskb_container">
+  <video width="620" height="540" border="5" autoplay="true" loop="true">
+    <source src="videos/terminal.mp4" type="video/mp4">
+  </video>
+</figure>
 
 To add break points to your program hover your mouse cursor over the line you would like to add your break point. Select the circle on the left of the line number.
-<figure class="video_container">
-  <video width="420" height="340" border="5" autoplay="true" loop="true">
+
+**Example of adding a Break Point**
+<figure class="taskb_container">
+  <video width="620" height="540" border="5" autoplay="true" loop="true">
     <source src="videos/Break-Point.mp4" type="video/mp4">
   </video>
 </figure>
