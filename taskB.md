@@ -12,10 +12,24 @@ There are three main extensions that is a must have for VSCode:
 2. GitLens 
 3. C#
 
+### How to install Extensions
+To install extensions click on the 5th icon down form the top icon on your toolbar. This will show you a searchbar, installed extensions and recommended extensions. Now click on the searchbar to search for an extension you want to download and install. Than click on the extension than click the install button. Once it has installed click the reload button whihc reloads the page and enables the extension.
+<br>
+**Example of installing Extensions. Im installing Live Server but works the same way for all extensions**
+<br>
+<figure class="taskb_container">
+  <video class="taskb-vid" width="620" height="540" border="5" autoplay="true" loop="true">
+    <source src="videos/extension-install.mp4" type="video/mp4">
+  </video>
+</figure>
+
+When you installed Homebrew it all ready installed Git Bash on the macOS terminal. So VSCode already has git bash (which is the macOS terminal) as the defaukt terminal to use. So you don't need to go and chnage your default terminal settings.
+
 ## Task B3
 To test a web page go into your HTML file and press command-o then command-l to open live serv or click the liver server button. This will open your website in your default browser, hopefully Google Chrome. Right click on the browser and select inspect. You can now make changes. Please not changes made through inspector will not be saved.
 <br>
 **Example of using Live Server and Inspect Element**
+<br>
 <figure class="taskb_container">
   <video class="taskb-vid" width="620" height="540" border="5" autoplay="true" loop="true">
     <source src="videos/inspect-live.mp4" type="video/mp4">
@@ -25,6 +39,7 @@ To test a web page go into your HTML file and press command-o then command-l to 
 The debugger in VSCode only shows output not input. To debug a console application that takes user input you need to change "console": "internalConsole"; to "console": "externalTerminal";. This will output the program through the macOS terminal when debugging.
 <br>
 **Example of changing the console**
+<br>
 <figure class="taskb_container">
   <video class="taskb-vid" width="620" height="540" border="5" autoplay="true" loop="true">
     <source src="videos/terminal.mp4" type="video/mp4">
@@ -37,6 +52,7 @@ A break point is an intentional stopping or pausing place in a program. This is 
 To add break points to your program hover your mouse cursor over the line you would like to add your break point. Select the circle on the left of the line number.
 <br>
 **Example of adding a Break Point**
+<br>
 <figure class="taskb_container">
   <video class="taskb-vid" width="620" height="540" border="5" autoplay="true" loop="true">
     <source src="videos/Break-Point.mp4" type="video/mp4">
