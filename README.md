@@ -76,12 +76,11 @@ Step 3: Once the installation finishes close your current terminal and open a ne
 Step 4: In your terminal type `cd Desktop` and press enter. You are now on your desktop. Now type `git init myApp` and press enter. You have just created a folder that has git installed. Now go into that folder by typing `cd myApp` and press enter. You are now in your myApp folder. Now type `dotnet new console` and press enter. Now this may take a while but it just restores dotnet and installs packages in your .csproj file, but you don't need to worry about this.
 
 Your terminal should look like this (without the restore):
-`
-users-Mac:~ username$ cd Desktop
-users-Mac:desktop username$ git init myApp
-users-Mac:desktop username$ cd myApp
-users-Mac:myApp username$ dotnet new console
-`
+<br>
+`users-Mac:~ username$ cd Desktop` 
+`users-Mac:desktop username$ git init myApp`
+`users-Mac:desktop username$ cd myApp`
+`users-Mac:myApp username$ dotnet new console`
 
 
 **Optional**
