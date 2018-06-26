@@ -1,5 +1,5 @@
 [Task A](taskA.md) [Task B](taskB.md) [Task C](taskC.md)
-[Task A](taskA.md) [Task B](taskB.md) [Task C](taskC.md)
+
 # .Net Core
 .Net Core is an open source, cross platform (meaning it works on Windows, Mac and Linux) .Net Platform. .Net Core is used to create we apps, microservices, libraries and console applications. .Net core 1.0 was annouched an released on June 27th 2016, with the latest version now being 2.1 which was shipped/released May 30th, 2018. The primary languages used in .Net core are C# and Visual Basic.
 
