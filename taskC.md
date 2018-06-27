@@ -40,4 +40,40 @@ Your terminal should look like this (without the restore):
 <br>
 Step 5: This step is optional, but when you typed `dotnet new console` after it has finished you can type `code .` Which opens the folder in Visual Studio Code. When you do this is installs some debugging tools for .Net Core.
 
+## .Net Core commands (Common Commands That I Use)
+- `dotnet new console` This creates a new console application is the dierctory that you are in.
+- `dotnet restore` Restores the dependencies for a given application.
+- `dotnet build` Builds a .NET Core application.
+- `dotnet run` Runs the application from source.
+
+---
+
+# Git
+
+## How to install Git 
+Since we installed Homebrew. Homebrew install a thing called Xcode Command Line Tools, This has git installed so we don't need to go to the git website to download this. This is why Homebrew is quick and easy for installing applications at half the speed of usuallly doing it the Windows way.
+
+## What is Git
+Git is a version control system that tracks and makes changes to computer files from multiple users/groups. When users use git they usually upload there work to websites like Github and Bitbucket.
+
+## Git Branching
+Git branches represent an independent line of developement. Branches serves as the edit/stage/commit process. Git branches help teams of people know who did what. For example you might have a Front-End Team branch and a Back-End Team branch. So everthing the Front-End Team commits and uploads has there team name all over it so people know they did that work.
+
+## Git Merging
+Merging puts all multiple sequences of commits into one unified history. Git merge is usually used to combine two branchs into one. This is also used during SCRUM do when two teams (branches) finishes a task they can merge it together. Example: You have a front-end website and a back-end website, right now they are completely two different parts. `git merge master` merges the front-end website and the back-end website together to create one whole website. 
+
+## Commit Messages
+Commit messages are very important and need to be decriptive. When you change something in your application or program, and push it to Github(for example) you type in a commit message. This message should contain every change you made throughout that commit. The reasoning for this is because when other team members look at this they want to know what changes have been made or added. Doing this avoids confusion from within the team and other team mates from doing the same change you have done. Git commit messages also help for when you want to know what stage you are at with your program.
+
+## Git Commands (Command Commands That I Use)
+- `git add .` Add all files to a staging index
+- `git commit -m "<your message>"` Commit your code change
+- `git remote add origin <url>` Links your folder on your computer to a reposititory on website like Github
+- `git push origin master` Push changes through Master Branch
+- `git clone <url>` Downloads the repositiory of that url onto your machine
+- `git pull` Pull all the latest stuff from remote branch into your local branch
+- `git add YOUR_FILE` Add just that one file to staging index
+- `git branch` To see what branch you are in.
+- `git merge master` Merges multiple branches into one branch.
+
 <link href="styles.css" rel="stylesheet">

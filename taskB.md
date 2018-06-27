@@ -59,6 +59,12 @@ The debugger in VSCode only shows output not input. To debug a console applicati
   </video>
 </figure>
 
+**Debugger Video**
+<figure class="taskb_container">
+  <video class="taskb-vid" width="620" height="540" border="5" autoplay="true" loop="true">
+    <source src="videos/debugger.mp4" type="video/mp4">
+  </video>
+</figure>
 ### Break Points
 A break point is an intentional stopping or pausing place in a program. This is put inplace for debugging purposes. Not for Web use.
 <br>
