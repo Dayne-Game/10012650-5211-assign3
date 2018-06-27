@@ -52,14 +52,7 @@ The debugger in VSCode only shows output not input. To debug a console applicati
   </video>
 </figure>
 
-**Example of Output Terminal** 
-<figure class="taskb_container">
-  <video class="taskb-vid" width="620" height="540" border="5" autoplay="true" loop="true">
-    <source src="videos/terminal.mp4" type="video/mp4">
-  </video>
-</figure>
-
-**Debugger Video**
+**Debugger Video and Output Example**
 <figure class="taskb_container">
   <video class="taskb-vid" width="620" height="540" border="5" autoplay="true" loop="true">
     <source src="videos/debugger.mp4" type="video/mp4">
